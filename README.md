@@ -17,4 +17,4 @@ Machine Learning model to predict passenger survival on Titanic.
 
 ## How to run
 `bash
-python titanic.py
+python prediction_titanic.py
